@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
+// 第一天代码
 int main()
 {
 	printf("hello world\n");
