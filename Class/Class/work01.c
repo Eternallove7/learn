@@ -81,6 +81,7 @@ void test1() {
 		}
 		printf("数组中最小元素值为：%f",min);
 		printf("\n其在数组中的下标为：%d",minIndex);
+		printf("\n47 朱俊钊");
 	}
 }
 
