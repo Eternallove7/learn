@@ -115,5 +115,10 @@ int main()
 	//test03();
 	//test04();
 	test05();
+	
+	// 算数组长度
+	int arr[] = { 1,2,3,4 };
+	int size = sizeof(arr) / sizeof(arr[0]);
+	printf("%d", size);
 	return 0;
 }
